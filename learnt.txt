@@ -11,3 +11,4 @@ Git Clone <repositorypath>: load repository
 Git Checkout <repositorypath>: switching between branches
 git pull : pull latest from server
 
+
