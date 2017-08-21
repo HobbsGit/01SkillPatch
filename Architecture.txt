@@ -1,0 +1,13 @@
+Angular 4 (YeoMan template)
+ASP.Net Core
+ASP.Net Identity with Activity based Authentication
+ASP.Net Web API with EntityDTOs
+Entity Framework Code First
+Auto Mapper
+
+Two-Layered structure in Server-side
+1. DataLayer
+2. Web API layer
+3. Angular Front-End
+
+

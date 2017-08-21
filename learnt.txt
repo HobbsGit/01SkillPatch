@@ -3,6 +3,7 @@ Touch - creating a new file
 Git Add : adding to staging (tracking on)
 Git status : status of tracking
 Git Commit: Commit to staging
+Git Commit "<comments>": Commit to staging
 Git rm -cached <filename> : remove from staging
 Git remote add origin <repositorypath> : Add to remote repository
 Git push -u origin master :  to push into remote repository
