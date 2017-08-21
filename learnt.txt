@@ -7,9 +7,8 @@ Git Commit -m "<comments>": Commit to staging
 Git rm -cached <filename> : remove from staging
 Git remote add origin <repositorypath> : Add to remote repository
 Git push -u origin master :  to push into remote repository
-
 Git Clone <repositorypath>: load repository
 Git Checkout <repositorypath>: switching between branches
-git pull : pull latest from server
+git pull : pull latest from server 
 
 
