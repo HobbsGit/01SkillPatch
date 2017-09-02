@@ -11,4 +11,9 @@ Git Clone <repositorypath>: load repository
 Git Checkout <repositorypath>: switching between branches
 git pull : pull latest from server 
 
+In vim, 
+i to start entering text and save by pressing esc 
+:wq and enter - this will commit with the message you typed
+:q and enter - just come out without committing
+
 
